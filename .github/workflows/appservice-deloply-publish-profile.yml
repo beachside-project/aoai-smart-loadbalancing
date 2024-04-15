@@ -1,4 +1,4 @@
-name: Build and deploy to an Azure Web App (Publish profile)
+name: "Publish profile: Build and deploy to an Azure Web App"
 
 env:
   # Get from repository variables
